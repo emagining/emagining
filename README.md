@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋 Hello!
 
-<!--
-**emagining/emagining** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I’m currently working on ...
+🎨 Vyou - multi-platform app that lets you explore and fall in love with art
+☠ Sveleton - starter kit for SEO and performance focused sites (Svelte-based)
+🎁 [Wishcart](https://wishcart.com) - free wish list management app
 
-Here are some ideas to get you started:
+### 🖍 Stack
+![SvelteKit](https://img.shields.io/badge/Svelte/Kit-%23EEE.svg?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare-Pages-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
+![Cloudflare KV](https://img.shields.io/badge/Cloudflare-KV-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
+
+### Contact
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/emagining)
