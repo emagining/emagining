@@ -3,9 +3,9 @@ Used to be a growth-focused marketeer. Now a user-focused fe-developer. Always a
 
 
 ### I’m currently working on ...
-🎨 Vyou - multi-platform app that lets you explore and fall in love with art
+🎨 [Vyou](https://vyou.art) - multi-platform app that lets you explore and fall in love with art
 
-☠ Sveleton - starter kit for SEO and performance focused sites (Svelte-based)
+🐼 [Pico](https://usepi.co) - pocket-sized way to share your memories
 
 🎁 [Wishcart](https://wishcart.com) - free wish list management app
 
