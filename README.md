@@ -3,9 +3,14 @@ Used to be a growth-focused marketeer. Now a user-focused fe-developer. Always a
 
 
 ### I’m currently working on ...
-🎨 [Vyou](https://vyou.art) - multi-platform app that lets you explore and fall in love with art
+
+🎷 [vstd](https://vstdmusic.com/) - discovery & valuation tool for musical gems
 
 🐼 [Pico](https://usepi.co) - pocket-sized way to share your memories
+
+### I used to work on ...
+
+🎨 [Vyou](https://vyou.art) - multi-platform app that lets you explore and fall in love with art
 
 🎁 [Wishcart](https://wishcart.com) - free wish list management app
 
