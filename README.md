@@ -8,7 +8,7 @@ Used to be a growth-focused marketeer. Now a user-focused fe-developer. Always a
 
 🐼 [Pico](https://usepi.co) - pocket-sized way to share your memories
 
-🫠 [meltdown](https://usepi.co) - MarkDown renderer
+🫠 [meltdown](https://meltdown.ink/) - MarkDown renderer
 
 ### I used to work on ...
 
