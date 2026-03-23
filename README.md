@@ -4,7 +4,7 @@ Used to be a growth-focused marketeer. Now a user-focused producteer. Always a d
 
 ### I’m currently working on ...
 
-🎷 [hiasynth](https://hiasynth.co/) - demographic truth for AI
+🌍 [hiasynth](https://hiasynth.co/) - demographic truth for AI
 
 🎷 [vstd](https://vstdmusic.com/) - discovery & valuation tool for musical gems
 
