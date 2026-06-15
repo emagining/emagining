@@ -6,11 +6,11 @@ Used to be a growth-focused marketeer. Now a user-focused producteer. Always a d
 
 🌍 [hiasynth](https://hiasynth.co/) - demographic truth for AI
 
+### I used to work on ...
+
 🎷 [vstd](https://vstdmusic.com/) - discovery & valuation tool for musical gems
 
 🫠 [meltdown](https://meltdown.ink/) - MarkDown renderer
-
-### I used to work on ...
 
 🐼 [Pico](https://usepi.co) - pocket-sized way to share your memories
 
